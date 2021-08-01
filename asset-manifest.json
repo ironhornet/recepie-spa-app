@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/recepie-spa-app/static/css/main.8a21151d.chunk.css",
+    "main.js": "/recepie-spa-app/static/js/main.fdc446d1.chunk.js",
+    "main.js.map": "/recepie-spa-app/static/js/main.fdc446d1.chunk.js.map",
+    "runtime-main.js": "/recepie-spa-app/static/js/runtime-main.d3d2a66d.js",
+    "runtime-main.js.map": "/recepie-spa-app/static/js/runtime-main.d3d2a66d.js.map",
+    "static/js/2.913f428a.chunk.js": "/recepie-spa-app/static/js/2.913f428a.chunk.js",
+    "static/js/2.913f428a.chunk.js.map": "/recepie-spa-app/static/js/2.913f428a.chunk.js.map",
+    "index.html": "/recepie-spa-app/index.html",
+    "static/css/main.8a21151d.chunk.css.map": "/recepie-spa-app/static/css/main.8a21151d.chunk.css.map",
+    "static/js/2.913f428a.chunk.js.LICENSE.txt": "/recepie-spa-app/static/js/2.913f428a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3d2a66d.js",
+    "static/js/2.913f428a.chunk.js",
+    "static/css/main.8a21151d.chunk.css",
+    "static/js/main.fdc446d1.chunk.js"
+  ]
+}
